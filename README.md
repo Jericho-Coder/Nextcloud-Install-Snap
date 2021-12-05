@@ -1,1 +1,1 @@
-# Nextcloud-Install-Snap-
+# Nextcloud Install Snap
