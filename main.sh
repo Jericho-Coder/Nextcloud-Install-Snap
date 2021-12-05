@@ -43,7 +43,7 @@ then
     fi
 fi
 
-if [ ssl = no ] 
+if [ $ssl = no ] 
 then 
     echo Nextcloud has been installed. Go to http://$domain to access GUI
 fi
